@@ -1,6 +1,6 @@
 # Marvelously
-
 Marvelously is an app designed for users to choose a comic or movie based on their preferences. A user can sort by movies or comics, search for a keyword, or sort by categories in order to choose; they can also view more information about each item to make an educated decision.
+### Live Page: https://nimsum.github.io/marvel-whateverly/
 
 # Features
  - Favorite your own card and save it to local storage
